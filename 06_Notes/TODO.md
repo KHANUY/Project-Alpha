@@ -33,5 +33,11 @@
     # 다른 컴퓨터에서 깃 사용 전 해야할 것
         pwd 하면 그 위치가 확인됨.
         그 다음 dir 하면 그 폴더 내에 있는 파일들이 확인됨.
-        
+        그 다음 code .
+        위 사항들 하기 전에
+        cd "C:\Users\kimto\Project-Alpha" 이런 식으로 폴더 이동해서 clone 받을 위치를 설정해주기.
+        그 다음
+        git clone https://github.com/KHANUY/Project-Alpha.git 하기.
+        클론 끝나면 폴더로 들어가기위해
+        cd Project-Alpha
     
