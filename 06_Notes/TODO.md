@@ -30,4 +30,8 @@
         git config --global user.name "kimtosw92@gmail.com"
     # 깃 버전 확인(?)
         git remote -v
+    # 다른 컴퓨터에서 깃 사용 전 해야할 것
+        pwd 하면 그 위치가 확인됨.
+        그 다음 dir 하면 그 폴더 내에 있는 파일들이 확인됨.
+        
     
