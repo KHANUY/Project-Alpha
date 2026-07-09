@@ -18,7 +18,7 @@
 - [o] 논리 연산자(and, or, not)
 - [o] 실습 프로젝트
 - [o] 노트 작성
-- [] git 저장
+- [o] git 저장
     # 깃에 저장할 때는 
         git add . => git commit -m "내용" => git push
     # 깃에서 다운할 때는 
@@ -41,3 +41,8 @@
         클론 끝나면 폴더로 들어가기위해
         cd Project-Alpha
     
+## Day 4
+
+- [o] for, while
+- [o] 노트 작성
+- [o] git 저장
