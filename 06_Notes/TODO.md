@@ -55,12 +55,12 @@
 
 ## Day 6
 
-- [] 리스트 값 수정
-- [] 리스트 삭제
-- [] append()
-- [] insert()
-- [] remove()
-- [] pop()
-- [] in 연산자
-- [] len()
-- [] for문 + 리스트
+- [o] 리스트 값 수정(append, insert, reverse, sort)
+- [o] 리스트 삭제(remove, pop)
+- [o] append()
+- [o] insert()
+- [o] remove()
+- [o] pop()
+- [o] in 연산자
+- [o] len()
+- [o] for문 + 리스트
