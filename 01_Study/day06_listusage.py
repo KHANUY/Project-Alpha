@@ -72,6 +72,7 @@ for i in range(len(workouts)):
     print(workouts[i])
 
 print(f"총 운동 개수 : {len(workouts)}개")
+#print문에서 문자열 안에 함수를 사용할 때는f"아무거나{함수()}"
 
 foods = ["닭가슴살", "계란", "고구마", "바나나"]
 print(len(foods))
