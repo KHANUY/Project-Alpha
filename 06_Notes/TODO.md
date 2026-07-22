@@ -46,3 +46,21 @@
 - [o] for, while
 - [o] 노트 작성
 - [o] git 저장
+
+## Day 5
+
+- [o] list?
+- [o] 인덱싱
+- [o] 슬라이싱
+
+## Day 6
+
+- [] 리스트 값 수정
+- [] 리스트 삭제
+- [] append()
+- [] insert()
+- [] remove()
+- [] pop()
+- [] in 연산자
+- [] len()
+- [] for문 + 리스트
